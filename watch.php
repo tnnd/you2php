@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
     require_once "lang.conf.php";
 
     include('./lib.php');
